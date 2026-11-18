@@ -27,3 +27,17 @@ Coming soon...
 
 ### 🤝 Connect With Me
 - GitHub: [@nidhiyadavl2715-cell](https://github.com/nidhiyadavl2715-cell)
+
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhiyadavl2715-cell&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiyadavl2715-cell&layout=compact&theme=tokyonight)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nidhiyadavl2715-cell&theme=tokyonight)
+
